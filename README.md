@@ -5,7 +5,7 @@ This README would normally document whatever steps are necessary to get your app
 ### What is this repository for? ###
 
 This repository contains android projects
-1) Scroggle game
+1) Scroggle game:
 2) PING - social networking app
 
 ### How do I get set up? ###
@@ -18,6 +18,7 @@ Scroggle is a personal project developed by Raj Kukadia
 PING is developed by Raj Kukadia and Dharak Savalia
 
 ### Who do I talk to? ###
-
+Contact -Dharak Savalia
+Email-dharak.savalia@gmail.com
 Contact - Raj Kukadia
 Email - rajkukadia1@gmail.com	
